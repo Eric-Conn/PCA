@@ -1,9 +1,5 @@
 
-<img src="cube_rotate_nested_cubes.gif" width="400">
-
-
-
-
+<img src="pca_test_var.gif" width="800" >
 
 
 
